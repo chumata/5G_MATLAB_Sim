@@ -1,0 +1,5 @@
+M = 6;  % modulation order
+fs = 122.8e6;  % sampling frequency
+sample_period = 1/fs;
+frame_time = %  frame time as samples multiplication
+stop_time = 
